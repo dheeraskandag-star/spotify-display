@@ -1,4 +1,5 @@
-#Spotify Display
+# Spotify Display
+
 It is a mp3 player sort of thingy but it is used to control currently playing song and display the song,artists name, and time left using spotify's API.
 I made it it because i always wanted an instant way to change song currently playing insted of fiddeling with all the opened windows.plus, i can see the current song playing with the display
 
